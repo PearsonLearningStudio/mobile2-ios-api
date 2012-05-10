@@ -1,2 +1,1 @@
-mobile2-ios-api
-===============
+This repo has moved.  Please fork us at https://github.com/PearsonEducation/mobile2-ios-api
